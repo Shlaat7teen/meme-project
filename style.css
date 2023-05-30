@@ -1,0 +1,24 @@
+html {
+    background: black;
+  }
+  #heading {
+    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    
+    
+  } 
+  #image {
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 100px;
+    
+    
+  }
+ #per {
+    font-family: 'Caveat' , cursive;
+    color: white;
+    text-align: center;
+ }
